@@ -1,3 +1,16 @@
-### Hi there 👋
-I'm Adrien, FullStack Web Developer, passionate about continuous learning and staying up-to-date with the latest technologies and best practices in web development.
-I discovered this world as a self-taught learner in 2020 — and I instantly fell in love with it.
+###Hey, I'm Adrien 👋
+Full-stack developer working mainly with PHP/Laravel and React, currently expanding into Java/Spring Boot.
+
+🛠️ What I'm building
+
+AI-Bookshelf: an open-source app that bridges AI-assisted learning conversations and structured study notes. You learn something with an AI, export it as structured data, and it lands in a clean, searchable knowledge base instead of getting lost in a chat history.
+
+Backend: Java 21, Spring Boot 3.x, PostgreSQL
+Frontend: React, TypeScript, Vite
+
+💻 Tech I work with
+
+PHP / Laravel / JavaScript / TypeScript / React / Java / Spring / Boot / PostgreSQL / MySQL / Docker / Nginx / REST APIs
+
+📫 Get in touch
+LinkedIn: https://www.linkedin.com/in/adrien-corvisier/
