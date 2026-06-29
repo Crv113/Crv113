@@ -5,7 +5,7 @@ Full-stack developer working mainly with PHP/Laravel and React, currently expand
 
 AI-Bookshelf: an open-source app that bridges AI-assisted learning conversations and structured study notes. You learn something with an AI, export it as structured data, and it lands in a clean, searchable knowledge base instead of getting lost in a chat history.
 
-Backend: Java 21, Spring Boot 3.x, PostgreSQL
+Backend: Java 21, Spring Boot 4.1, PostgreSQL
 Frontend: React, TypeScript, Vite
 
 💻 Tech I work with
