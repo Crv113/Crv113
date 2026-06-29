@@ -1,4 +1,4 @@
-###Hey, I'm Adrien 👋
+### Hey, I'm Adrien 👋
 Full-stack developer working mainly with PHP/Laravel and React, currently expanding into Java/Spring Boot.
 
 🛠️ What I'm building
