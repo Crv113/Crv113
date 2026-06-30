@@ -10,7 +10,7 @@ Frontend: React, TypeScript, Vite
 
 💻 Tech I work with
 
-PHP / Laravel / JavaScript / TypeScript / React / Java / Spring / Boot / PostgreSQL / MySQL / Docker / Nginx / REST APIs
+PHP / Laravel / JavaScript / TypeScript / React / Java / Spring Boot / PostgreSQL / MySQL / Docker / Nginx / REST APIs
 
 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/adrien-corvisier/
